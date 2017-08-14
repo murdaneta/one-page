@@ -1,0 +1,11 @@
+Text
+
+Segoe UI Bold 60 Header
+Segoe UI Regular 36 Titles
+Segoe UI Regular 18 Content
+
+Colors
+
+Yellow #FFB900
+Light Grey #e8e8e8
+DarkGrey #232323

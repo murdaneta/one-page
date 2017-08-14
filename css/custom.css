@@ -1,0 +1,87 @@
+﻿body {
+    padding-top: 0px;
+}
+nav ul li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+	min-width: 111px;
+	line-height: 108px;
+}
+nav ul li a:hover, nav ul li a:hover strong{
+    background-color: #FFB900;
+    color: #232323 !important;
+}
+.text-dark ,.text-dark a{
+	color: #232323 !important;
+}
+.bg-dark-grey {
+    background-color: #232323 !important;
+}
+.py-6{
+	padding-top: 10rem !important;
+    padding-bottom: 10rem !important;
+}
+.px-6{
+	padding-left: 7.6rem !important;
+    padding-right: 7.6rem !important;
+}
+.text-white{
+	color: white;
+}
+.btn-sabor{
+	margin-top: 35px;
+	width: 15%;
+}
+#screen-one {
+    /*position: absolute;*/
+	top: -31px;
+	height: 26.6rem;
+	right: 4rem;
+}
+.footer-img p{
+	position: relative;
+	padding: 21px 1px;
+	bottom: 55px;
+	background: #FFB900;
+	margin: 0px;
+}
+section p {
+	font-size: 12px;
+}
+.text-z1 {
+	font-size: 1.1rem;
+}
+.text-z2 {
+	font-size: 0.9rem;
+}
+footer > .text-z2 hr{
+	border-color: #f2f2f2;;
+}
+.bg-full, .section-full {
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: center center;
+	margin-top: -1px;
+}
+.bg-full {
+	background-size: auto 100% ;
+}
+.bg-full-left {
+	background-position: left top;
+}
+.bg-full-right {
+	background-position: right top;
+}
+.section-full {
+	min-height: 28rem;
+}
+.row2{
+	margin-right: 0px;
+	margin-left:  0px;
+}
+
+.row2 > div{
+	padding-right: 0px;
+	padding-left: 0px;
+}
